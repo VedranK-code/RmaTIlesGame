@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268786359391",
+    "project_id": "rma-tiles-game",
+    "storage_bucket": "rma-tiles-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268786359391:android:473e13f648c9f1ef410fea",
+        "android_client_info": {
+          "package_name": "com.RMAtiles.tilesgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzG0nZYl49lmxfVYXF53gTvHzvia-LGO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
